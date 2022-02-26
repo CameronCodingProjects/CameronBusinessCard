@@ -11,6 +11,7 @@
 		45CAF4D527CA946A008168C8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45CAF4D427CA946A008168C8 /* ContentView.swift */; };
 		45CAF4D727CA946D008168C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45CAF4D627CA946D008168C8 /* Assets.xcassets */; };
 		45CAF4DA27CA946D008168C8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 45CAF4D927CA946D008168C8 /* Preview Assets.xcassets */; };
+		45CAF4E127CAA2EB008168C8 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45CAF4E027CAA2EB008168C8 /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		45CAF4D427CA946A008168C8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		45CAF4D627CA946D008168C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		45CAF4D927CA946D008168C8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		45CAF4E027CAA2EB008168C8 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				45CAF4D227CA946A008168C8 /* CameronBusinessCardApp.swift */,
 				45CAF4D427CA946A008168C8 /* ContentView.swift */,
+				45CAF4E027CAA2EB008168C8 /* InfoView.swift */,
 				45CAF4D627CA946D008168C8 /* Assets.xcassets */,
 				45CAF4D827CA946D008168C8 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				45CAF4D527CA946A008168C8 /* ContentView.swift in Sources */,
+				45CAF4E127CAA2EB008168C8 /* InfoView.swift in Sources */,
 				45CAF4D327CA946A008168C8 /* CameronBusinessCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
